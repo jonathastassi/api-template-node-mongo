@@ -7,7 +7,7 @@ class IndexController
     index(req, res, next) {
         try {
             res.status(200).send({
-                title: "API - Node", 
+                title: "API - VUTTR", 
                 version: "0.0.1"
             });
         } catch (err) {
