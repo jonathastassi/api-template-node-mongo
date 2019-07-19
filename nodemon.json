@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "ignore": ["uploads/*", "Dockerfile", "docker-compose.yml"]
+  }
